@@ -11,7 +11,10 @@
     gap: 2rem;
     width: 18.5rem;
   }
-  
+  .contact-formula{
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
   .form-group {
     width: 100%;
   }
