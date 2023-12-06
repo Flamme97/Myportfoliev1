@@ -12,18 +12,6 @@ const subheadingsData = {
         ),
       },
     ],
-    3: [
-      {
-        title: "2017 HF",
-        content: (
-          <>
-            <p>
-              High School
-            </p>
-          </>
-        ),
-      },
-    ],
     2: [
       {
         title: "2023 Support Danalock",
@@ -54,6 +42,18 @@ const subheadingsData = {
             <p>
               guidance Customers and helping with products
               Dealing with Billing, customer service, support and retention.
+            </p>
+          </>
+        ),
+      },
+    ],
+    3: [
+      {
+        title: "2017 HF",
+        content: (
+          <>
+            <p>
+              High School
             </p>
           </>
         ),
